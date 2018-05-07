@@ -1,0 +1,12 @@
+Macros für grundlegende Interaktion. Können wie Funktionen im Blueprint Editor aufgerufen werden.
+
+GetAimedObject: Für die Interaktion mit Objekten im First-Person-Modus(Template). Liefert Handle für das Objekt, auf das der FP Character zielt, sofern in Reichweite
+>Input:
+>>Exec
+>>Reichweite: Reichweite des Aufrufs in Game Units
+>>Object Types: Typ der gefundenen Objekte. Mit _Make Array_ verbinden
+>>Target: Der zielende Character, mit _First Person Camera_ verbinden
+>Output:
+>>Exec
+>>Out Hit: Rückgabe des Treffers. Mit _Break Hit Result_ verbinden
+>>Return Value: Boolean, ob ein entsprechendes Objekt in der Reichweite gefunden wurde
