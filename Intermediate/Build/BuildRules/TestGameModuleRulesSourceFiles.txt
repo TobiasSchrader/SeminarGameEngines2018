@@ -1,0 +1,3 @@
+C:\Users\steph\Documents\Unreal Projects\TestGame\Source\TestGame\TestGame.Build.cs
+C:\Users\steph\Documents\Unreal Projects\TestGame\Source\TestGame.Target.cs
+C:\Users\steph\Documents\Unreal Projects\TestGame\Source\TestGameEditor.Target.cs

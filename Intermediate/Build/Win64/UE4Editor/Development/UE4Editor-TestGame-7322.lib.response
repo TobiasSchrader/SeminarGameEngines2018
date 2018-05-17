@@ -1,0 +1,38 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestGame-7322.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\CustomButton.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Door.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\InteractingPawn.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\InteractionInterface.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Keypad.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\KeypadUserWidget.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Openable.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGame.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameCharacter.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameGameMode.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameHUD.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGamePlayerController.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameProjectile.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\CustomButton.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Door.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\InteractingPawn.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\InteractionInterface.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Keypad.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\KeypadUserWidget.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\Openable.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGame.init.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameCharacter.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameGameMode.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameHUD.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGamePlayerController.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\TestGame\TestGameProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\TestGame\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\steph\Documents\Unreal Projects\TestGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestGame-7322.lib"
