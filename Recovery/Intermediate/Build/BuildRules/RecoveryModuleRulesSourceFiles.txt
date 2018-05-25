@@ -1,0 +1,3 @@
+C:\Users\steph\Documents\Unreal Projects\Recovery\Source\Recovery\Recovery.Build.cs
+C:\Users\steph\Documents\Unreal Projects\Recovery\Source\Recovery.Target.cs
+C:\Users\steph\Documents\Unreal Projects\Recovery\Source\RecoveryEditor.Target.cs

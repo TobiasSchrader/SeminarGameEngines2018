@@ -1,0 +1,15 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for RecoveryEditor
+    Running UnrealHeaderTool "C:\Users\steph\Documents\Unreal Projects\Recovery\Recovery.uproject" "C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\RecoveryEditor\Development\RecoveryEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RecoveryEditor in 31,6801855 seconds
+  Performing 6 actions (2 in parallel)
+  Recovery.init.gen.cpp
+  KeypadUserWidget.gen.cpp
+  MyPlayerController.cpp
+  KeypadUserWidget.cpp
+  [5/6] Link UE4Editor-Recovery-5032.dll
+  [6/6] Link UE4Editor-Recovery-5032.lib
+     Bibliothek "C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Recovery-5032.lib" und Objekt "C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Recovery-5032.exp" werden erstellt.
+     Bibliothek "C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Recovery-5032.suppressed.lib" und Objekt "C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Recovery-5032.suppressed.exp" werden erstellt.
+  Deploying RecoveryEditor Win64 Development...
+  Total build time: 68,54 seconds (Local executor: 31,85 seconds)

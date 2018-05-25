@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Recovery.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3D1A3B9E-2A04-44D4-88F4-1362647C5A14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Recovery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RecoveryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F64637D9-51B9-4AE8-BDF9-74B20EFEA490}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Recovery">
+      <UniqueIdentifier>{2D7A5AA4-6647-4BD4-ABD6-13C18EE3B48D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Recovery\Door.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\Door.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\Interactable.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\Interactable.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\KeypadActor.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\KeypadActor.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\KeypadUserWidget.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\KeypadUserWidget.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\MyGameModeBase.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\MyGameModeBase.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\MyPlayerController.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\MyPlayerController.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\Openable.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\Openable.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Recovery\Recovery.Build.cs">
+      <Filter>Source\Recovery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Recovery\Recovery.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\Recovery.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\RecoveryCharacter.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\RecoveryCharacter.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\RecoveryGameMode.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\RecoveryGameMode.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\RecoveryHUD.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\RecoveryHUD.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Recovery\RecoveryProjectile.cpp">
+      <Filter>Source\Recovery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Recovery\RecoveryProjectile.h">
+      <Filter>Source\Recovery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

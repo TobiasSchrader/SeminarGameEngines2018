@@ -1,0 +1,38 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Recovery-7300.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Door.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Interactable.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\KeypadActor.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\KeypadUserWidget.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyGameMode.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyGameModeBase.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyPlayerController.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Openable.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Recovery.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryCharacter.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryGameMode.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryHUD.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryProjectile.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Door.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Interactable.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\KeypadActor.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\KeypadUserWidget.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyGameMode.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyGameModeBase.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\MyPlayerController.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Openable.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\Recovery.init.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryCharacter.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryGameMode.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryHUD.gen.cpp.obj"
+"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\Recovery\RecoveryProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Recovery\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\steph\Documents\Unreal Projects\Recovery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Recovery-7300.lib"
